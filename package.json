@@ -1,0 +1,26 @@
+{
+  "name": "request-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husnimubaraq/request-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/husnimubaraq/request-test/issues"
+  },
+  "homepage": "https://github.com/husnimubaraq/request-test#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "puppeteer": "^13.7.0"
+  }
+}
